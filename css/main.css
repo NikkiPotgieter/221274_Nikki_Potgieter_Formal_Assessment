@@ -1,0 +1,133 @@
+h3{
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+
+h5{
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+
+.nav-bar {
+    width: 100%;
+    height: 90px;
+    background-color: #2b2b2b;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+}
+
+.nav, ul {
+    list-style: none;
+}
+
+.nav {
+    width: 520px;
+    height: 60px;
+    float: right;
+}
+
+.nav li {
+    float: left;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 35px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: -30px;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    background-color: #2b2b2b;
+    color: white !important;
+    text-align: center;
+    padding-top: 35px;
+    margin-top: 50px !important;
+}
+
+.icon{
+    width: 70px;
+    height: 70px;
+    margin-left: 45%;
+    border: solid 2px;
+    border-radius: 50%;
+    border-color: white;
+    background-image: url(../assets/icon.svg);
+    background-position: center;
+    background-size: contain;
+}
+
+.image{
+    width: 100%;
+    height: 300px;
+    margin-top: 10px;
+    padding-top: 25px;
+    text-align: center;
+    border-radius: 8px;
+    background-image: url(../assets/header.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.col-6 {
+    width: 80%;
+    margin-left: 43%;
+    margin-top: 20px;
+    color: white;
+    border: solid 1px;
+    border-color: #2b2b2b;
+}
+
+h6{
+    color: black;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.form {
+    background-color: lightgray;
+}
+
+form {
+    margin: 0 auto;
+    margin-top: 25px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+
+.input-el {
+    width: 95%;
+    height: 40px;
+    margin-top: 30px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: lightgray;
+    color: black;
+}
+
+.button {
+    width:95%;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 40px;
+    padding-top: 3px;
+    border-radius: 5px;
+    border: none;
+    background-color: #2b2b2b;
+    color: white;
+}
+
